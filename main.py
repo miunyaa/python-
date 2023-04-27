@@ -67,7 +67,6 @@ plt.title('豆瓣电影Top100电影拍摄国家数量占比图')
 plt.axis('equal')
 
 
-
 # 计算各个类型的电影数量占比
 type_prop = type_count / type_count.sum()
 
